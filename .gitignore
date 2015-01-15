@@ -27,6 +27,7 @@
 *.i*86
 *.x86_64
 *.hex
+dynamic_process_model/mpi_dynproc
 
 #
 # ignoring generated files
@@ -36,4 +37,5 @@
 .\#*
 *_?ats.o
 *_?ats.c
-
+myMPI.o*
+myMPI.err*
