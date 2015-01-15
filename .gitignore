@@ -27,3 +27,13 @@
 *.i*86
 *.x86_64
 *.hex
+
+#
+# ignoring generated files
+#
+*~
+\#*
+.\#*
+*_?ats.o
+*_?ats.c
+
